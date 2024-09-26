@@ -1,9 +1,8 @@
 # Group_11
-GCU Group Project Repo
+Project Breakdown
 -------------------------
-Project Breakdown:
-Assign yourself to a role:
-  Project Leader/Manager:
-  Backend Developer: Aiden
-  Frontend Developer:
-  Designer (UI/UX):
+Assign yourself to a role:  
+- <b>Project Leader/Manager</b>:  
+- <b>Backend Developer</b>: Aiden
+- <b>Frontend Developer</b>:  
+- <b>Designer (UI/UX)</b>:  
